@@ -1,1 +1,3 @@
-# Aladin_crawler
+### Aladin website crawler
+> 알라딘 중고서점 웹사이트 크롤러입니다. 
+> '오늘 들러온 중고책'섹션을 기준으로 구현했습니다.
